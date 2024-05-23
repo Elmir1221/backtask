@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\servioces\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:servioces\\interfaces\\isliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\servioces\\interfaces\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:servioces\\interfaces\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\servioces\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:servioces\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\servioces\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:servioces\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\servioces\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:servioces\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|c:\\users\\fa507xv\\desktop\\fiorelloback\\fiorellopb101\\viewmodels\\baskets\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267F080-6DC6-43AF-BEB7-39907E9C7881}|fiorellopb101.csproj|solutionrelative:viewmodels\\baskets\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:56:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Models\\Setting.cs",
+              "RelativeToolTip": "Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:54:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISliderServices.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\ISliderServices.cs",
+              "RelativeDocumentMoniker": "Servioces\\Interfaces\\ISliderServices.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\ISliderServices.cs",
+              "RelativeToolTip": "Servioces\\Interfaces\\ISliderServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:50:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\SettingService.cs",
+              "RelativeDocumentMoniker": "Servioces\\SettingService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\SettingService.cs",
+              "RelativeToolTip": "Servioces\\SettingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:38:59.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISettingService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\ISettingService.cs",
+              "RelativeDocumentMoniker": "Servioces\\Interfaces\\ISettingService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\ISettingService.cs",
+              "RelativeToolTip": "Servioces\\Interfaces\\ISettingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:38:21.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:34:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T01:14:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:54:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\ViewModels\\Baskets\\BasketVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Baskets\\BasketVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\ViewModels\\Baskets\\BasketVM.cs",
+              "RelativeToolTip": "ViewModels\\Baskets\\BasketVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:42:42.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Servioces\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\ProductServices.cs",
+              "RelativeToolTip": "Servioces\\ProductServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:35:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Servioces\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Servioces\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Servioces\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:31:29.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:22:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\fiorelloBack\\fiorellopb101\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:14:18.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
